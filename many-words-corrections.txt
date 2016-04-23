@@ -1,0 +1,222 @@
+kmhc319 ess->kmhc319ess
+rust oleum->rustoleum
+5 ooo->5000
+black out->blackout
+b onnet->bonnet
+can rack->canrack
+casa blanca->casablanca
+clorine tabs->chlor tabs
+x ontrol->control
+counter topseal->countertop seal
+cut off->cutoff
+cut of wheelb->cutoff wheel
+d ba->dba
+d con->dcon
+de longhi->delonghi
+de walt->dewalt
+dim able->dimmable
+diverte rhandle->diverter handle
+dura rock->durock
+d vault->dvault
+el ctrical->electrical
+x acto->exacto
+e z->ez
+f channel->fchannel
+air heat conditioner->air heater conditioner
+corner brace->angle bracket
+autom tic->automatic
+back blash->back splash
+ba rpulls->bar pull
+bar b que->barbecue
+bath rom->bathroom
+b gone->bgon
+b gon->bgon
+be gone->bgon
+b lack->black
+bra ss->brass
+built in->builtin
+buit in->builtin
+by pass->bypass
+car port->carport
+cetol srd->cetolsrd
+charbroi l->char broil
+c loset f lange->closet flange
+closet maiid->closet maid
+con tact->contact
+cook top->cooktop
+counter top->countertop
+craftsm an->craftsman
+cuv e->cube
+de ville->deville
+ele c->electric
+enrty doors->entry door
+entery door->entry door
+fen c e->fence
+fi nish->finish
+floot ball->float ball
+flo master->flomaster
+floot lamp->floor lamp
+foldin g->folding
+fraiser fur->fraser fir
+ref ridge->fridge
+g as s moker->gas smoker
+g e->ge
+gone zo order->gonzo odor
+green house->greenhouse
+gr s->grs
+gurad gate->guard gate
+handi cap->handicap
+ha ndle->handle
+herring bome->herring bone
+horse power->horsepower
+hot point->hotpoint
+i bolt->ibolt
+icey tech->icey tek
+in love->in oven
+in door->indoor
+in ground->inground
+in line->inline
+i tempo->itempo
+i twinkle->itwinkle
+j b weld->jb weld
+johan deer->john deere
+juke box->jukebox
+knock out->knockout
+la crosse->lacrosse
+l 8 ght->light
+light s->light
+link able->linkable
+make up->makeup
+m aple->maple
+marbl e->marble
+m arkers->markers
+masn gar->mason jar
+med cab->medicine cabinet
+micro wave->microwave
+mirr edge->mirredge
+mount blanv->mont blanc
+mr 16->mr16
+n utdriver->nut driver
+o cedar->ocedar
+o ring->oring
+0 z->ounce
+out door->outdoor
+outler s->outlet
+out let->outlet
+p h->ph
+p lant->plant
+pl c->plc
+plug in->plugin
+porta cool->port a cool
+porta nailor->porta nail
+powder clorine->powder chlorine
+pre cut->precut
+pre hung->prehung
+pre mixed->premixed
+p touch->ptouch
+r adial->radial
+r a k->rak
+re key->rekey
+remote retr->remote retractable
+rid x->ridx
+ro hs->rohs
+ready to use->rtu
+r ubber->rubber
+rumbl estone->rumblestone
+rust oleum->rustoleum
+rust o leum->rustoleum
+rust o oleum->rustoleum
+ryobi headger->ryobi edger
+3 cfm->scfm
+screw conn->screw connector
+shark bite->sharkbite
+shope cloth->shop cloth
+show case->showcase
+shut off->shutoff
+sika flex->sikaflex
+gsileston counter toplass->sileston coutertop glass
+sku able->skewable
+skill saw->skil saw
+snow joe i on->snow joe ion
+stem washers->steam washer
+syste m->system
+t bar->tbar
+t ba->tbar
+tab le->table
+t emp->temperature
+t handle->thandle
+u bend->u bent
+un finished->unfinished
+uni strut->unistrut
+u s->us
+u shaanchor->usha anchor
+veneer sequia->veneer sequoia
+ven 5->vent
+waterpi k->water pik
+water proof->waterproof
+water proff->waterproof
+water proofing->waterproof
+wat let->watt led
+wheel barrel->wheelbarrow
+wheel barrow->wheelbarrow
+wi fi->wifi
+with s hook->with a hook
+w shelves->with shelv
+w shelves->with shelves
+wood rx->woodrx
+x scape->xscape
+0 turn->zero turn
+z max->zmax
+z wave->zwave
+feet.x->feet x
+beach pier->beachpier
+mobile home->mobilehome
+double sided->doublesided
+rj 14->rj14
+sun glasses->sunglasses
+waste basket->wastebasket
+waste  basket->wastebasket
+cast iron->castiron
+self stick->selfstick
+metro gris->metrogris
+all in one->allinone
+whisper ceiling->whisperceiling
+byefold->bifold
+byfold->bifold
+bi fold->bifold
+candel bra->candelabra
+candle bra->candelabra
+come along->comealong
+dead blow->deadblow
+deco strip->decostrip
+door hinge->doorhinge
+door fold->doorfold
+door spring->doorspring
+door guard->doorguard
+doors screen->doorscreen
+door screen->doorscreen
+double sided->doublesided
+drop cloth->dropcloth
+earth grow->earthgro
+eath grow->earthgro
+fan door->fandoor
+hex head->hexhead
+hex pin->hexpin
+key stock->keysstock
+low voltage->lowvoltage
+nail gun->nailgun
+non adhesive->nonadhesive
+claw foot->clawfoot
+con tact->contact
+miracle-gro->miraclegro
+miracle gro->miraclegro
+miracle grow->miraclegro
+double pole type chf breaker->double pole type ch breaker
+mast 5 er->master
+toilet rak->toilet rack
+in wide->in white
+shepard hook->shepherd hook
+frost fee->frost free
+kitchen aide->kitchen aid
+saww horse->saw horse
+weather striping->weatherstripper
